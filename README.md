@@ -1,10 +1,11 @@
 ### <div align="center">Hi, I'm Eduardo Alcantara de Oliveira. 💻</div>  
-  
+<br>  
 
 <div align="center">
 <img src="https://github.com/eduardoao/EduardoAlcantaradeOliveira/blob/main/novo_logo.jpg" align="center" style="width: 90% height:50%" />
 </div>  
   
+<br>
 
 - I'm software engineer. I'm passionate about technology and I'd like shared this crazy and beautiful with everyone.
   
