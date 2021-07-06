@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://github.com/eduardoao/EduardoAlcantaradeOliveira/blob/main/novo_logo.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/eduardoao/EduardoAlcantaradeOliveira/blob/main/novo_logo.jpg" align="center" style="width: 90%" />
 </div>  
   
 
